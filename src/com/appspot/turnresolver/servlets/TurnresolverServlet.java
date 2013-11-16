@@ -1,4 +1,4 @@
-package com.appspot.turnresolver;
+package com.appspot.turnresolver.servlets;
 
 import java.io.IOException;
 import javax.servlet.http.*;
